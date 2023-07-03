@@ -1,5 +1,6 @@
 # Phase-1-week-3 - code challenge : Flatdango
- The flatdango is a movie application that will display list of movies that wil be showcased in a specific day .The application will display the trending movie during that season at the top when the users log into this webapplication. 
+ The flatdango is a movie application that will display list of movies that wil be showcased in a specific day .
+ The application will display the trending movie during that season at the top when the users log into this webapplication. 
 
 ## Deliverables
 As a user, I can be able to:
@@ -32,4 +33,4 @@ Grace kungu
 
 ## License
 This project is licenced under: ISC
-# -Phase-1-week-3.-code-challenge-Flatdango
+
