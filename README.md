@@ -32,5 +32,3 @@ Grace kungu
 
 ## License
 This project is licenced under: ISC
-
-# Phase-1-week-3.-code-challenge-Flatdango
