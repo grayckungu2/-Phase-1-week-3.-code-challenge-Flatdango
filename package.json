@@ -1,0 +1,12 @@
+{
+  "name": "movieapplicationbooking",
+  "version": "1.0.0",
+  "description": "The flatdango is a movie application that will display list of movies that wil be showcased in a specific day .The application will display the trending movie during that season at the top when the users log into this webapplication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Grace kungu",
+  "license": "ISC"
+}
